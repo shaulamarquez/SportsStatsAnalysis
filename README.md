@@ -62,3 +62,89 @@ I downloaded and imported it into my Notebook to analyze using Python. I removed
 
    I wanna know if men still dominate the sports thru the years?
 
+## Milestone 3
+
+Dive Deeper
+Look deeper into the features you are investigating, consider:
+
+Relationships/Correlation, Pearson Correlation
+Linear Regression for future prediction(if the relationship is linear)
+Textual Analysis for TF-IDF(Term Frequency-Inverse Document Frequency; Row-based and column-based, stop-word removal?
+Specify 1-2 correlations you discovered. List the fields that you found to be correlated and describe what you learned from these correlations.
+
+Go Broader
+Expand the features you are investigating. Look for connections/relationships that you may have intially missed.
+
+What jumps out at you now?
+Use the descriptive stats to point you to features that you may now want to consider.
+What key terms did you discover in any text analysis, for whom? Any themes? If you are not analyzing text, summarize what other things you are considering in your analysis?
+
+New Metric
+Create 1 or 2 new meterics to track relationship of data you discovered. Explain why you created them.
+
+![image](https://github.com/user-attachments/assets/ee9d16c4-7b84-41ae-b7e7-2778c6abc3aa)
+
+## Interpretation of Each Correlation
+1. Total count and medal count (0.91):
+There is a strong positive correlation between the total number of USA athletes and the number of medals won. This suggests that when more athletes participate, the number of medals won tends to increase as well.
+
+2. Total count and gold count (0.82):
+A strong positive correlation exists between the total number of USA athletes and the number of gold medals won. More athletes likely lead to more opportunities for gold.
+
+3. Total count and silver count (0.80):
+This also shows a strong positive correlation between the total athlete count and silver medals, suggesting a similar pattern as for gold medals.
+
+4. Total count and bronze count (0.88):
+The strong positive correlation here indicates that an increase in the number of athletes has a particularly high association with the number of bronze medals won.
+
+5. Medal count and gold count (0.92):
+The number of medals won and the number of gold medals show a very strong positive correlation, indicating that gold medals contribute heavily to the total medal count.
+
+6. Medal count and silver count (0.89):
+A strong positive correlation between total medal count and silver medals suggests that silver medals also significantly contribute to the total.
+
+7. Medal count and bronze count (0.89):
+Similar to gold and silver, bronze medals are also strongly correlated with the overall medal count.
+
+8. Gold count and silver count (0.68):
+There’s a moderate positive correlation between gold and silver medals, indicating that while there's some relationship, winning gold does not strongly predict winning silver.
+
+9. Gold count and bronze count (0.71):
+There’s a moderate positive correlation between gold and bronze medals, showing a similar trend as with silver.
+
+10. Silver count and bronze count (0.80):
+A strong positive correlation between silver and bronze medals suggests that when the USA wins more silver medals, they also tend to win more bronze medals.
+
+# Summary
+Overall, there is a strong relationship between the total number of athletes and the number of medals won, indicating that increasing athlete participation tends to increase medal counts.
+All medal types (gold, silver, and bronze) contribute significantly to the total medal count, though gold has the strongest influence.
+The moderate correlations between the different medal types suggest that while winning one type of medal increases the likelihood of winning others, it’s not a perfect predictor.
+This matrix reveals that higher athlete participation tends to positively impact the USA’s success in winning medals across all types.
+
+## Milestone 4
+
+# Your presentation must include:
+Build on Project Proposal
+Build on your project proposal (from Milestone 1) that described the client or dataset you chose, the approach you were going to take, your initial hypotheses, and your initial approach. Include descriptive stats and any visualizations from your data exploration. You want to highlight key learnings from your data exploration and any aha's or changes to your plan as a results of your findings:
+
+Include Client/Hypotheses/Approach
+
+Include artifacts from previous modules
+
+Include results (good and bad paths); Correlations / regressions
+
+Graphics / Visualizations
+
+Discuss Insights Discovered
+Discuss insights discovered (results from your diving deeper / going broader analysis). This is where you put your spin on what you’ve discovered
+
+Discuss your hypotheses and any direct outcomes from whether you were right or wrong.  Did you change your hypotheses? Or create new ones?
+
+Discuss any metrics you created and why?
+
+Discuss discoveries about relationships in the data / themes discovered.
+
+Recommendations and Actions
+Summarize the insights you found and make recommendations on what your client should do. What is the next steps or the action that should be taken as a result of your analysis?
+
+[Milestone 4](https://github.com/shaulamarquez/SportsStatsAnalysis/blob/main/Milestone_4.pdf)
