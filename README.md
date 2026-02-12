@@ -17,7 +17,7 @@ the approach you will take to get your answers.
 NOTE: The proposal is just a plan for how we will travel. It’s there to help keep you on your path by keeping the end goal in mind. You will then will execute your plan and in the end present your findings in a month to your management.
 
 ## Project Proposal
-I would like to explore the athletes perticipation and permformance by gender distribution, participation trends, performance outcomes (medals), and country representation over time.
+I would like to explore the athletes participation and performance by gender distribution, participation trends, performance outcomes (medals), and country representation over time.
 
 1. Which country has more representative?
 
